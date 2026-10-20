@@ -1,0 +1,22 @@
+# Secrets / credentials
+.env
+.env.*
+credentials.json
+token.json
+
+# Local data
+tickets.db
+emails.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node / Next.js
+node_modules/
+.next/
+*.tsbuildinfo
+
+# Misc
+*.stackdump
